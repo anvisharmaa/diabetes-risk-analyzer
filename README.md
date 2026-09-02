@@ -115,16 +115,4 @@ The pre-trained model files (`logistic_regression_model.pkl`, `svm_model.pkl`) a
 └── svm_model.pkl
 ```
 
----
-
-## 👥 Team
-
-| Name | GitHub |
-|---|---|
-| Guillermo Novillo | [@Gnovillo1120](https://github.com/Gnovillo1120) |
-| Jorge | — |
-| Anvi | — |
-
----
-
 *University of Florida — Data Structures & Algorithms Final Project, Fall 2025*
