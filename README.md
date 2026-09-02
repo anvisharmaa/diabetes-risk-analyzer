@@ -3,9 +3,6 @@
 > A machine learning platform that predicts diabetes risk using classifiers built **from scratch** — no ML libraries — trained on ~98,000 real patient records from the CDC.
 
 **🔗 Live demo:** https://diabetes-risk-calculate.streamlit.app
-
-Built by **Guillermo Novillo, Jorge, and Anvi** as a final project for DSA at the University of Florida.
-
 ---
 
 ## 📌 Overview
