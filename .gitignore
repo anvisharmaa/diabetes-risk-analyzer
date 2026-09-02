@@ -6,8 +6,8 @@ __pycache__/
 venv/
 env/
 
-# Trained model artifacts (regenerated on first app launch)
-*.pkl
+# Large precomputed comparison data (regenerated on demand in the app)
+precomputed_model_comparison.pkl
 
 # Streamlit
 .streamlit/secrets.toml
